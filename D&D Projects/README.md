@@ -9,6 +9,7 @@ The list below shows the highest priority of features this program will use.
   2) Core stats, modifiers, and skill values
   3) Combat related values (AC, initiative, hitpoints)
   4) Weapons and Spells
+  
   Further proficiencies, equipment, and other details can be placed in a "Notes" section if needed.
   
 ## Known Issues/Potential Future Upgrades
